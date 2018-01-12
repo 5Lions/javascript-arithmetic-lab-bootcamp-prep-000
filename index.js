@@ -38,3 +38,10 @@ function makeInt(a) {
 }
 
 console.log("integer " + makeInt(20));
+
+function preserveDecimal(b) {
+  return(parseFloat(b));
+}
+
+console.log("preserve decimal " + preserveDecimal(7.889));
+
