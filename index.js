@@ -27,3 +27,8 @@ function inc(n) {
 }
 
 console.log("increment " + inc(3));
+ 
+function dec(n) {
+  return(n--);
+}
+console.log("decrement " + dec(3));
