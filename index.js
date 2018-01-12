@@ -31,4 +31,4 @@ console.log("increment " + inc(23));
 function dec(n) {
   return(n--);
 }
-console.log("decrement " + dec(150)));
+console.log("decrement " + dec(150));
