@@ -22,13 +22,13 @@ function divide(a, b) {
 
 console.log("divide " + divide(20,5));
 
-function inc(n) {
-  return(n++);
+function inc(a) {
+  return(a++);
 }
 
 console.log("increment " + inc(23));
  
-function dec(n) {
-  return(n--);
+function dec(a) {
+  return(a--);
 }
 console.log("decrement " + dec(150));
