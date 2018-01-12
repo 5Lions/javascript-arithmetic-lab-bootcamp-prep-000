@@ -36,3 +36,5 @@ console.log("decrement " + dec(150));
 function makeInt(a) {
   return(parseInt(a));
 }
+
+console.log("integer " + makeInt(21));
