@@ -22,7 +22,7 @@ function divide(a, b) {
 
 console.log("divide " + divide(20,5));
 
-function inc(n) {
+function inc(a, n) {
   return(parseInt(n)++);
 }
 
