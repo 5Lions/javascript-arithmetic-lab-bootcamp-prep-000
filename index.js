@@ -26,9 +26,9 @@ function inc(n) {
   return(n++);
 }
 
-console.log("increment " + inc(3));
+console.log("increment " + inc(23));
  
 function dec(n) {
   return(n--);
 }
-console.log("decrement " + dec(3));
+console.log("decrement " + dec(150)));
