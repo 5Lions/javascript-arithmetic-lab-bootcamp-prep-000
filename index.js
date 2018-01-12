@@ -37,4 +37,4 @@ function makeInt(a) {
   return(parseInt(a));
 }
 
-console.log("integer " + makeInt(21));
+console.log("integer " + makeInt(20));
