@@ -34,7 +34,7 @@ function dec(a) {
 console.log("decrement " + dec(150));
 
 function makeInt(a) {
-  return(parseInt(a), 10);
+  return(parseInt(a, 10));
 }
 
 console.log("integer " + makeInt(20));
