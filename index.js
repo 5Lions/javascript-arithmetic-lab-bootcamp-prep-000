@@ -29,6 +29,6 @@ function inc(a) {
 console.log("increment " + inc(23));
  
 function dec(a) {
-  return(a--);
+  return(parseInt(a)-1);
 }
 console.log("decrement " + dec(150));
